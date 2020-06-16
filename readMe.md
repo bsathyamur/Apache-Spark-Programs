@@ -1,6 +1,10 @@
 <b> Spark programs using python </b>
 
  1.Degree of separation - Identify the degree of separation between two comic superheroes using the classical traversal Breadth first   search algorithm
+ 
+ 2. Identify popular movies with the dataset from movie ratings dataset
+ 
+ 3. 
 
 
 <b>INSTALLATION</b>:
