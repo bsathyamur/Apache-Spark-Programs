@@ -1,1 +1,9 @@
-Implementation of spark using python (pyspark) such as finding popular movies, popular super hero and implementating breadth first search in python to find the degree of seperation
+<b> Spark programs using python </b>
+
+ Deeplearning model to predict the images of cats and dogs using CNN
+
+<b>INSTALLATION</b>:
+
+ 1. Download the ipynb file in jupyter notebook
+ 2. Unzip the dogs.zip and cats.zip files in test and train folder in the data set
+ 3. Execute the code in jupyter notebook
