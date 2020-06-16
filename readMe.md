@@ -6,6 +6,6 @@
 
 <b>INSTALLATION</b>:
 
- 1. Download spark from https://spark.apache.org/ and install as per the instructions
- 2. From anaconda command prompt run the spark programs as shown below:
-    spark-submit most-popular-superheroes.py
+1. Download spark from https://spark.apache.org/ and install as per the instructions
+2. From anaconda command prompt run the spark programs as shown below:
+         spark-submit most-popular-superheroes.py
