@@ -1,6 +1,7 @@
 <b> Spark programs using python </b>
 
- Deeplearning model to predict the images of cats and dogs using CNN
+ 1.Degree of separation - Identify the degree of separation between two comic superheroes using the classical traversal Breadth first   search algorithm
+
 
 <b>INSTALLATION</b>:
 
